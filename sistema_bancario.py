@@ -15,7 +15,6 @@ class Conta:
     def extrato(self):
         return self.saldo
 
-# Criação da conta com saldo inicial
 conta = Conta('Luiz Felipe', 500)
 
 while True:
